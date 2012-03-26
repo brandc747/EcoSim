@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="EcoSim.Animal">
+    <Position X="12.25" Y="4.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AgABAABAAAAAQAAAAAAAAAAgAAACAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Animal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EcoSim.Environment">
+    <Position X="17.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAEAAA=</HashCode>
+      <FileName>Environment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EcoSim.Grass" Collapsed="true">
+    <Position X="18.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Grass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EcoSim.Greenhouse">
+    <Position X="15" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ARAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAA=</HashCode>
+      <FileName>Greenhouse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EcoSim.Plant" Collapsed="true">
+    <Position X="15.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAQAAAAAAAAAAAABAIABAABAAAAAAEAAA=</HashCode>
+      <FileName>Plant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EcoSim.PoisonIvy" Collapsed="true">
+    <Position X="14.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PoisonIvy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EcoSim.Program" Collapsed="true">
+    <Position X="8.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EcoSim.SimController" BaseTypeListCollapsed="true">
+    <Position X="6.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAIAAA=</HashCode>
+      <FileName>SimController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="EcoSim.SimModel" BaseTypeListCollapsed="true">
+    <Position X="10.5" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SimModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="EcoSim.SimView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BQCECAAgACAAQBEQACCCwAACAMA4CAAQAiAAAABBBAA=</HashCode>
+      <FileName>SimView.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="EcoSim.Tree" Collapsed="true">
+    <Position X="16.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EcoSim.Zoo">
+    <Position X="12.75" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAIAAAAAAEAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Zoo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EcosystemSimulator.Time">
+    <Position X="19" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQAAA=</HashCode>
+      <FileName>Time.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EcoSim.Properties.Resources">
+    <Position X="4.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EcoSim.Properties.Settings" Collapsed="true">
+    <Position X="4.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="EcoSim.ISimController" Collapsed="true">
+    <Position X="6.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ISimController.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="EcoSim.ISimModel" Collapsed="true">
+    <Position X="10.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ISimModel.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="EcoSim.ISimView" Collapsed="true">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ISimView.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="EcosystemSimulator.MutationType">
+    <Position X="12.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAggBAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MutationType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
